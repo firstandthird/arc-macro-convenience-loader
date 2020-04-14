@@ -12,7 +12,6 @@ module.exports = (arc, cloudformation, stage) => {
         put: [],
         delete: []
       };
-      // if it's just two entry assume its a mapping:
       arc.http.forEach(entry => {
         params.http[entry[0]].push(entry[1]);
       });
