@@ -1,0 +1,21 @@
+{
+  "name": "arc-macro-convenience-loader",
+  "version": "1.0.0",
+  "description": "frontend for arc macros that presents arc parameters in a more convenient way",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firstandthird/arc-macro-convenience-loader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firstandthird/arc-macro-convenience-loader/issues"
+  },
+  "homepage": "https://github.com/firstandthird/arc-macro-convenience-loader#readme",
+  "dependencies": {
+  }
+}
